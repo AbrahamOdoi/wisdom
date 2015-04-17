@@ -4,3 +4,4 @@ $(document).on("pagecreate", function() {
 		window.location = 'http://216.224.161.207/wisdom/login.php'; 
 	});
 });
+ 
